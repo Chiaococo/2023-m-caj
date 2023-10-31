@@ -3,8 +3,8 @@
 # Declare variables to be passed into your templates.
 
 # Basic Config
-studentId: speaker01
-project: speaker01-green
+studentId: student07
+project: student07-green
 clusterAppsDomain: apps.cluster-zghzl.zghzl.sandbox852.opentlc.com
 image:
   repository: quay.io/ske
